@@ -1,4 +1,5 @@
 # Composite Dual Momentum Strategy Replication
+# from: [matReturns.com](https://matReturns.com)
 
 Welcome to the Composite Dual Momentum Strategy Replication repository! This repository focuses on replicating and analyzing the Composite Dual Momentum (CDM) strategy introduced by Gary Antonacci in his paper ["Risk Premia Harvesting Through Dual Momentum"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2042750). The CDM strategy is an innovative approach that combines relative and absolute momentum to dynamically adjust asset allocation in order to enhance risk-adjusted returns and provide improved downside protection.
 
